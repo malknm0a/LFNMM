@@ -1,0 +1,12 @@
+venv/
+env/
+models/ensemble.pkl
+models/lgbm_tuned.pkl
+models/lgbm_v3.pkl
+models/extra_trees_13f.pkl
+models/extra_trees_10f.pkl
+models/random_forest_10f.pkl
+models/random_forest_13f.pkl
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
