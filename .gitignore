@@ -10,3 +10,5 @@ models/random_forest_13f.pkl
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+models/rf_B.pkl
+models/rf_A.pkl
