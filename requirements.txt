@@ -1,0 +1,38 @@
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
+
+# requirements.txt
+# Lithofacies Classification — FORCE 2020
+# Python 3.10+
+
+# Core
+numpy==1.26.4
+pandas==2.2.1
+
+# Machine Learning
+scikit-learn==1.4.1
+xgboost==2.0.3
+lightgbm==4.3.0
+
+# Visualization
+matplotlib==3.8.3
+seaborn==0.13.2
+
+# Utilities
+joblib==1.3.2
+glob2==0.7
+
+# generate test file code is in N00
+# test any file code in N05
+
+#python -m streamlit run app.py
+##python -m venv venv
+#venv\Scripts\activate
+#pip install label-studio
+
+#label-studio
+
+#streamlit run app.py 
