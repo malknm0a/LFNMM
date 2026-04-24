@@ -4,7 +4,7 @@
 import os
 
 # ── Paths ────────────────────────────────────────────────
-BASE_PATH       = "D:/Python/Lithofacies_Classification_NMM"
+BASE_PATH       = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW_PATH        = os.path.join(BASE_PATH, "data/raw")
 PROCESSED_PATH  = os.path.join(BASE_PATH, "data/processed")
 OUTPUT_PATH     = os.path.join(BASE_PATH, "data/output")
