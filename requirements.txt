@@ -8,4 +8,3 @@ seaborn==0.13.2
 joblib==1.4.2
 openpyxl==3.1.2
 plotly==5.22.0
-Set-Content runtime.txt "python-3.11" 
